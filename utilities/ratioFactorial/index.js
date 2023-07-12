@@ -7,3 +7,4 @@ const foo = (num1, num2, num3) => {
   console.log(ratio, factorial);
   return { ratio, factorial };
 };
+module.exports = foo;
